@@ -19,7 +19,7 @@ Feature: sample karate test script
     * def user =
       """
       {
-        "name": "Test User",
+        "name": "Test",
         "username": "testuser",
         "email": "test@user.com",
         "address": {
